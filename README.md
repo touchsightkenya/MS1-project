@@ -1,4 +1,4 @@
-# <div align="center">Mental Health Awareness Organization Website</div>
+# <div align="center">Touchsightkenya website </div>
 
 [View the live project here.](https://madyark.github.io/MS1-project/ "MHA Organization website")
 
